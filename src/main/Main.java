@@ -45,7 +45,8 @@ public class Main {
 	public Main() {
 		initialize();
 	}
-
+	
+	// XXXXXXXXXXX
 	private void initialize() {
 		frame = new JFrame();
 		frame.setBounds(100, 100, 735, 475);
